@@ -1,7 +1,8 @@
-<img width=190 align="right" src="img/profile_pic.png" />
 
-# WIP
+# WIP 
+
 ## Prueba 1
+
 # Hi there, I'm Valeria 
 
 * Currently Studing:
@@ -9,7 +10,6 @@
 * Other Tools: Git, Github, Trello, Figma, Notion
 * Matlab, Excel ...
 * Fun Facts: Love reading and ...
-
 
 ## About Me
 ---
