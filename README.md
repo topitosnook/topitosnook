@@ -1,3 +1,4 @@
+<img width=190 align="right" src="img/profile_pic.png" />
 
 # WIP 
 
