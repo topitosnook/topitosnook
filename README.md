@@ -1,3 +1,7 @@
+<img width=190 align="right" src="img/profile_pic.png" />
+
+# WIP
+## Prueba 1
 # Hi there, I'm Valeria 
 
 * Currently Studing:
