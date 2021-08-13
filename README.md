@@ -16,14 +16,14 @@
 - Matlab, Excel ...
 - Fun Facts: Love reading and ...
 
-## About Me
+:notes: :notes: :dog: :globe_with_meridians: :computer: :pushpin: :books: :bookmark: :rainbow: :white_flower:
 
+## About Me
 ---
 
 My name is Valeria Argomedo Pérez, Front-End Developer Student at Laboratoria's Bootcamp
 
 ## Technologies and Tools
-
 ---
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
