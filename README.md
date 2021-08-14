@@ -10,21 +10,15 @@
 
 # WIP - Hi there, I'm Valeria
 
-- Currently Studing:
-- Working with: HTML, CSS, JavaScript, Firebase
-- Other Tools: Git, Github, Trello, Figma, Notion
-- Matlab, Excel ...
-- Fun Facts: Love reading and ...
-
-:notes: :notes: :dog: :globe_with_meridians: :computer: :pushpin: :books: :bookmark: :rainbow: :white_flower:
-
-## About Me
----
-
-My name is Valeria Argomedo Pérez, Front-End Developer Student at Laboratoria's Bootcamp
+:rainbow: Pronouns: She/her
+:white_flower: Currently a Student at Laboratoria's FrontEnd Bootcamp
+:ocean: Oceanographer | Ocean Sciences College Degree
+:paw_prints: I have four quadruped children
+:scroll: Current favorite book/story: One Piece
+:honeybee: Personal interests: Accesibility, inclusion, managment and administration, languages, science 
+:notes: :musical_keyboard: :trumpet: :guitar: I play no instruments ... but I love them all :stuck_out_tongue_closed_eyes:
 
 ## Technologies and Tools
----
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -44,7 +38,8 @@ My name is Valeria Argomedo Pérez, Front-End Developer Student at Laboratoria's
 &nbsp;
 [<img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=007ACC" alt=" Trello" title="Trello" height="25" />][tech_tools_anchor]
 &nbsp;
-
+[<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=white" alt="Figma" title="Fifma" height="25" />][tech_tools_anchor]
+&nbsp;
 ## Currently learning and improving
 
 ---
@@ -57,8 +52,6 @@ My name is Valeria Argomedo Pérez, Front-End Developer Student at Laboratoria's
 &nbsp;
 
 ## Interest in learning at some point
-
----
 
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
 &nbsp;
