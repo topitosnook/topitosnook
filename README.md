@@ -9,14 +9,13 @@
 </p>
 
 # WIP - Hi there, I'm Valeria
-
-:rainbow: Pronouns: She/her
-:white_flower: Currently a Student at Laboratoria's FrontEnd Bootcamp
-:ocean: Oceanographer | Ocean Sciences College Degree
-:paw_prints: I have four quadruped children
-:scroll: Current favorite book/story: One Piece
-:honeybee: Personal interests: Accesibility, inclusion, managment and administration, languages, science 
-:notes: :musical_keyboard: :trumpet: :guitar: I play no instruments ... but I love them all :stuck_out_tongue_closed_eyes:
+<br>:rainbow: Pronouns: She/her 
+<br>:white_flower: Currently a Student at Laboratoria's FrontEnd Bootcamp
+<br>:ocean: Oceanographer | Ocean Sciences College Degree
+<br>:paw_prints: I have four quadruped children
+<br>:scroll: Current favorite book/story: One Piece
+<br>:honeybee: Personal interests: Accesibility, inclusion, managment and administration, languages, science 
+<br>:notes: :musical_keyboard: :trumpet: :guitar: I play no instruments ... but I love them all :stuck_out_tongue_closed_eyes:
 
 ## Technologies and Tools
 
