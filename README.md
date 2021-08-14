@@ -8,7 +8,7 @@
   <a href="https://www.polywork.com/topitosnook"><img alt="Polywork" height="32" width="32" src="img/polywork.png"></a>
 </p>
 
-# WIP - Hi there, I'm Valeria
+# Forever WIP - Hi there, I'm Valeria
 <br>:rainbow: Pronouns: She/her 
 <br>:white_flower: Currently a Student at Laboratoria's FrontEnd Bootcamp
 <br>:ocean: Oceanographer | Ocean Sciences College Degree
