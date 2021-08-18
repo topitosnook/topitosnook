@@ -1,5 +1,3 @@
-<img width=190 align="right" src="img/profile_pic.png" alt = "profile-picture"/>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/valeria-argomedo-4416871ab/"><img alt="LinkedIn" height="32" width="32" src="img/linkedin.svg"></a>
   <a href="https://www.instagram.com/topitosnook">
