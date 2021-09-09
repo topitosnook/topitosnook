@@ -50,7 +50,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_now_anchor]
 
