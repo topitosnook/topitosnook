@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://www.linkedin.com/in/valeria-argomedo-4416871ab/"><img alt="LinkedIn" height="32" width="32" src="img/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/valeria-argomedo-perez/"><img alt="LinkedIn" height="32" width="32" src="img/linkedin.svg"></a>
   <a href="https://www.instagram.com/topitosnook">
   <img alt="Topito's Nook Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
   <a href="https://twitter.com/topitosnook"><img alt="Twitter" height="32" width="32" src="img/twitter.svg"></a>
