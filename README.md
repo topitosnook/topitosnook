@@ -35,7 +35,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Trello-282C34?logo=Trello&logoColor=007ACC" alt=" Trello" title="Trello" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=white" alt="Figma" title="Fifma" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=white" alt="Figma" title="Figma" height="25" />][tech_tools_anchor]
 &nbsp;
 
 ## Currently learning and improving
